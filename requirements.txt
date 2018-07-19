@@ -1,0 +1,11 @@
+numpy
+pandas
+nltk
+requests
+bs4
+wordcloud
+sklearn
+IPython
+matplotlib
+seaborn
+bokeh
